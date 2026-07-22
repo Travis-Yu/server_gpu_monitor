@@ -1,2 +1,3 @@
 # server_gpu_monitor
-服务器空闲gpu监控 server gpu monitor
+
+参考https://docs.swanlab.cn/plugin/notification-lark.html设置好后，修改文件中的`LARK_WEBHOOK_URL`和`LARK_SECRET`即可运行。
